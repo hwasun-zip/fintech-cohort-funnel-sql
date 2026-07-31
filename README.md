@@ -52,7 +52,5 @@ Olist에는 조회·장바구니 로그가 없지만, 주문의 단계별 타임
 .
 ├── fintech_cohort_funnel.ipynb   # 분석 노트북 (Colab)
 ├── README.md
-└── images/                        # 실행 후 저장되는 히트맵/퍼널 이미지
-    ├── retention_heatmap.png
-    └── funnel.png
+
 ```
